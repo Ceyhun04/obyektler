@@ -8,7 +8,8 @@ public class main {
 
         Car c = b;
         c.drive();
-        
+        c.drive();
+
 
 
 
